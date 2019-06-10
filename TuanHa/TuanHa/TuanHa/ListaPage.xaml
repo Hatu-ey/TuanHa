@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TuanHa.ListaPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry x:Name="FindByName" Completed="FindByName_Completed" Placeholder="Poszukaj Po ID"/>
+            <ListView x:Name="listView" ItemSelected="ListView_ItemSelected" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Padding="20,20,20,20" HorizontalOptions="StartAndExpand" Orientation="Horizontal">
+                                <Label Text="{Binding stationName, StringFormat = 'Stacja: {0}'}"  VerticalTextAlignment="Center"/>
+                                <Label Text="{Binding id, StringFormat = 'Id: {0}'}" VerticalTextAlignment="Center"/>
+                                <Label Text="{Binding addressStreet, StringFormat = 'Adress: {0}'}" VerticalTextAlignment="Center"/>
+                                <Label Text="{Binding city.commune.communeName, StringFormat = 'Gmina: {0}'}" VerticalTextAlignment="Center"/>
+                                <Label Text="{Binding city.commune.districtName, StringFormat = 'Powiat: {0}'}" VerticalTextAlignment="Center"/>
+                                <Label Text="{Binding city.commune.provinceName, StringFormat = 'Wojewodztwo: {0}'}" VerticalTextAlignment="Center"/>
+                                <Button Text="Pokaż na mapie" Pressed="Button_Pressed"></Button>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

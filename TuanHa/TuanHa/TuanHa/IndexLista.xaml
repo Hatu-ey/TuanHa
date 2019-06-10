@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TuanHa.IndexLista">
+    <ContentPage.Content>
+        <StackLayout x:Name="stack">
+            <Label x:Name="data" VerticalTextAlignment="Center" HorizontalOptions="Center"/>
+            <Label x:Name="indeks"  VerticalTextAlignment="Center" HorizontalOptions="Center"/>
+            <Button Text="Wyjśćie" Pressed="Button_Pressed" HorizontalOptions="CenterAndExpand"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

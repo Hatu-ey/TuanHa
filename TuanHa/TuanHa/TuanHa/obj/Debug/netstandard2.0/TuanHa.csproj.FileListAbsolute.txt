@@ -1,0 +1,14 @@
+D:\Desktop\TuanHa\TuanHa\TuanHa\TuanHa\bin\Debug\netstandard2.0\TuanHa.deps.json
+D:\Desktop\TuanHa\TuanHa\TuanHa\TuanHa\bin\Debug\netstandard2.0\TuanHa.dll
+D:\Desktop\TuanHa\TuanHa\TuanHa\TuanHa\bin\Debug\netstandard2.0\TuanHa.pdb
+D:\Desktop\TuanHa\TuanHa\TuanHa\TuanHa\obj\Debug\netstandard2.0\TuanHa.csprojAssemblyReference.cache
+D:\Desktop\TuanHa\TuanHa\TuanHa\TuanHa\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Desktop\TuanHa\TuanHa\TuanHa\TuanHa\obj\Debug\netstandard2.0\IndexLista.xaml.g.cs
+D:\Desktop\TuanHa\TuanHa\TuanHa\TuanHa\obj\Debug\netstandard2.0\ListaPage.xaml.g.cs
+D:\Desktop\TuanHa\TuanHa\TuanHa\TuanHa\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Desktop\TuanHa\TuanHa\TuanHa\TuanHa\obj\Debug\netstandard2.0\TuanHa.csproj.CoreCompileInputs.cache
+D:\Desktop\TuanHa\TuanHa\TuanHa\TuanHa\obj\Debug\netstandard2.0\TuanHa.AssemblyInfoInputs.cache
+D:\Desktop\TuanHa\TuanHa\TuanHa\TuanHa\obj\Debug\netstandard2.0\TuanHa.AssemblyInfo.cs
+D:\Desktop\TuanHa\TuanHa\TuanHa\TuanHa\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Desktop\TuanHa\TuanHa\TuanHa\TuanHa\obj\Debug\netstandard2.0\TuanHa.dll
+D:\Desktop\TuanHa\TuanHa\TuanHa\TuanHa\obj\Debug\netstandard2.0\TuanHa.pdb
